@@ -10,7 +10,7 @@
                 <img class="thumb" :src="p.reply.thumb" alt="" loading="lazy">
             </div>
             <div class="mtext">
-                <div class="reply-to">Reply to:</div>
+                <div class="reply-to">Reply abracadabra:</div>
                 <div class="reply-text" v-html="p.reply.text"></div>
             </div>
         </div>
